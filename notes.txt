@@ -1,1 +1,2 @@
 Hi I am Kushal.
+Day 2 - Environment configuration completely verified.
