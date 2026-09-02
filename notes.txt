@@ -1,2 +1,1 @@
-Hi I am Kushal.
-Day 2 - Environment configuration completely verified.
+Phase 1 Day 3 - Solved maximum stock profit in C and mastered wc line counting pipelines
